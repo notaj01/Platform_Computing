@@ -25,6 +25,8 @@ The following **bonus** features are implemented:
 
 ![Aboutme1](https://github.com/notaj01/Platform_Computing/assets/125345385/cb0e9e74-fe15-4167-bcbb-b1b2b74671a9)
 
+![Aboutme2](https://github.com/notaj01/Platform_Computing/assets/125345385/aa0bb7a5-d9d4-4c5b-84f3-827520cdebab)
+
 <img src="C:\Users\gamer\OneDrive\Pictures\Screenshots\Aboutme1.png" title='Example screenshot' width='' alt='Example screenshot' />
 
 <img src="C:\Users\gamer\OneDrive\Pictures\Screenshots\Aboutme2.png" title='Example screenshot' width='' alt='Example screenshot' />
