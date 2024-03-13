@@ -1,5 +1,5 @@
 import './App.css';
-import edc from './images/edc.png'; // Import image using webpack
+import edc from './images/edc.png'; 
 import videogame from './images/videogame.png'; 
 
 function App() {
@@ -18,11 +18,11 @@ function App() {
         <section>
           <h2>My Hobbies</h2>
           <div className="hobby">
-            <img src={edc} alt="Music" /> {/* Use imported image */}
+            <img src={edc} alt="Music" /> 
             <p>Music Festival</p>
           </div>
           <div className="hobby">
-            {/* Adjust the src attribute to point to the correct path */}
+         
             <img src={videogame} alt="Games" /> 
             <p>Video Games</p>
           </div>
