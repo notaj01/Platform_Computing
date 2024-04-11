@@ -2,7 +2,7 @@
 
 PROVIDE OVERVIEW OF ASSIGNMENT HERE
 
-Time spent: **NUMBER_HOURS_SPENT** hours spent in total
+Time spent: **9** hours spent in total
 
 ## Features
 
